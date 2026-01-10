@@ -7,7 +7,6 @@ My work sits at the interface of engineering and operations research, with empha
 ## Affiliation
 **Current (Independent):** IE Tech Research Institute (Japan)  
 **Previous:** The University of Tokyo (Graduate School of Engineering)  
-*Most peer-reviewed publications were produced during my graduate studies at the University of Tokyo.*
 
 ## Contact
 - Email: thoshiyama@ieee.org
@@ -24,5 +23,5 @@ My work sits at the interface of engineering and operations research, with empha
 
 ## Talks / Presentations
 - 2026-01-21-, *Excluded Volume Effect in GI/G/s Queues* (Online), Symposium/Workshop at Kyushu University IMI Joint Seminar.  
-  Takako Hoshiyama (IE Tech Research Institute), Katsuhiro Nishinari (The University of Tokyo).  
+  
   https://joint.imi.kyushu-u.ac.jp/post-20061/
