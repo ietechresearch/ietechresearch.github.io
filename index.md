@@ -15,5 +15,5 @@ I am a consultant and Professional Engineer (Japan) in Industrial Engineering, h
   <li><a href="https://www.researchgate.net/profile/Takako-Hoshiyama" target="_blank" rel="noopener">ResearchGate</a></li>
   <li><a href="https://ieeexplore.ieee.org/author/37089615375" target="_blank" rel="noopener">IEEE Author Page</a></li>
   <li><a href="https://scholar.google.com/citations?user=X7A0MBsAAAAJ&hl=ja" target="_blank" rel="noopener">Google Scholar</a></li>
+  <li><a href="https://www.linkedin.com/in/takako-sakurai-hoshiyama-71180535/" target="_blank" rel="noopener">LinkedIn</a></li>
 </ul>
-
