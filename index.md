@@ -23,5 +23,8 @@ My work sits at the interface of engineering and operations research, with empha
 
 ## Talks / Presentations
 - 2026-01-21-, *Excluded Volume Effect in GI/G/s Queues* (Online), Symposium/Workshop at Kyushu University IMI Joint Seminar.  
-  
-  https://joint.imi.kyushu-u.ac.jp/post-20061/
+
+  <a href="https://joint.imi.kyushu-u.ac.jp/post-20061/" target="_blank" rel="noopener">
+    https://joint.imi.kyushu-u.ac.jp/post-20061/
+  </a>
+
