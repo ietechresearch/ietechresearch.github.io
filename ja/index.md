@@ -11,7 +11,7 @@ Japan / 日本
 **前所属：** 東京大学 工学系研究科  
 
 ## 外部／共同研究者
-- 下山 博徳 博士（株式会社LEAOX）
+- 下山 大徳 博士（株式会社LEAOX）
 
 ## 連絡先
 - Email: thoshiyama@ieee.org
