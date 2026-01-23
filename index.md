@@ -8,6 +8,9 @@ My work sits at the interface of engineering and operations research, with empha
 **Current:** IE Tech Research Institute (Japan)  
 **Previous:** The University of Tokyo (Graduate School of Engineering)  
 
+## External / Collaborating Researcher
+- Dr. Daitoku Shimoyama (LEAOX Co., Ltd.)
+
 ## Contact
 - Email: thoshiyama@ieee.org
 
