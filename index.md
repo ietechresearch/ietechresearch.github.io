@@ -4,7 +4,7 @@
 
 Japan
 
-My work sits at the interface of engineering and operations research, with emphasis on stochastic modeling of production and service systems. I am a consultant and Professional Engineer (Japan) in Industrial Engineering, holding a Ph.D. in Engineering from the Research Center for Advanced Science and Technology, The University of Tokyo.
+Our works sit at the interface of engineering and operations research, with emphasis on stochastic modeling of production and service systems. I am a consultant and Professional Engineer (Japan) in Industrial Engineering, holding a Ph.D. in Engineering from the Research Center for Advanced Science and Technology, The University of Tokyo.
 
 ## Affiliation
 **Current:** IE Tech Research Institute (Japan)  
