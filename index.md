@@ -1,9 +1,3 @@
-Japan
-
-My work sits at the interface of engineering and operations research, with emphasis on stochastic modeling of production and service systems. ...
-
-
-
 # IE Tech Research Institute
 
 **Language:** English | [日本語 (Japanese)](/ja/)
