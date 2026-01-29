@@ -1,9 +1,3 @@
-<a href="/" style="text-decoration:none;">
-  <span style="font-size:34px; font-weight:800; letter-spacing:0.3px; color:#111;">
-    IE Tech Research Institute
-  </span>
-</a>
-
 Japan
 
 My work sits at the interface of engineering and operations research, with emphasis on stochastic modeling of production and service systems. ...
