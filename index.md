@@ -13,11 +13,22 @@ Our works sit at the interface of engineering and operations research, with emph
 ## About the Institute
 IE Tech Research Institute is an independent research organization based in Japan, conducting and disseminating research at the interface of engineering and operations research. The Institute maintains a continuous research program, publishes scholarly outputs, and supports collaborative research and academic dissemination.
 
+## Institutional Continuity
+- **Year established:** 2010  
+- **Scope:** Independent research, scholarly publications, and collaboration with external researchers  
+- **Website:** https://www.ietechresearch.org/
+
 ## External / Collaborating Researcher
 - Dr. Hironori Shimoyama (LEAOX Co., Ltd.)
 
 ## Contact
 - Email: thoshiyama@ieee.org
+
+## Affiliation for Publications
+For scholarly outputs produced under the Institute’s research program, authors may use the following affiliation format:
+
+**IE Tech Research Institute, Japan**
+
 
 ## Profiles
 <ul>
