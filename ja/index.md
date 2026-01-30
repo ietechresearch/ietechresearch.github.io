@@ -16,6 +16,20 @@ Japan / 日本
 ## 連絡先
 - Email: thoshiyama@ieee.org
 
+## 所属表記（論文・発表用）
+
+本研究所の研究プログラムの下で作成された学術成果については、以下の所属表記を使用することができます。
+
+IE Tech Research Institute, Japan
+
+## 体制
+
+創設者／主任研究員： 星山 孝子
+（工学博士、技術士〔経営工学部門〕）
+
+外部／共同研究者： 下山 博徳 博士
+（株式会社LEAOX）
+
 ## プロフィール
 <ul>
   <li><a href="https://orcid.org/0000-0003-4163-8599" target="_blank" rel="noopener">ORCID</a></li>
