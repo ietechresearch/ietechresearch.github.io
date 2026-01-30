@@ -8,7 +8,6 @@ Japan / 日本
 
 ## 所属
 **現在：** IE Tech Research Institute（日本）  
-**前所属：** 東京大学 工学系研究科  
 
 ## 外部／共同研究者
 - 下山 大徳 博士（株式会社LEAOX）
