@@ -29,6 +29,9 @@ For scholarly outputs produced under the Institute’s research program, authors
 
 **IE Tech Research Institute, Japan**
 
+## People
+- **Founder / Principal Researcher:** Takako Hoshiyama, Ph.D., P.E.Jp (Industrial Engineering)
+- **External / Collaborating Researcher:** Dr. Hironori Shimoyama (LEAOX Co., Ltd.)
 
 ## Profiles
 <ul>
