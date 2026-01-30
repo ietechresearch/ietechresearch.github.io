@@ -8,7 +8,6 @@ Our works sit at the interface of engineering and operations research, with emph
 
 ## Affiliation
 **Current:** IE Tech Research Institute (Japan)  
-**Previous:** The University of Tokyo (Graduate School of Engineering)  
 
 ## About the Institute
 IE Tech Research Institute is an independent research organization based in Japan, conducting and disseminating research at the interface of engineering and operations research. The Institute maintains a continuous research program, publishes scholarly outputs, and supports collaborative research and academic dissemination.
