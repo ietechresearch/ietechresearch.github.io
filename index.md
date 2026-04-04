@@ -42,10 +42,25 @@ For scholarly outputs produced under the Institute’s research program, authors
   <li><a href="https://www.linkedin.com/in/takako-sakurai-hoshiyama-71180535/" target="_blank" rel="noopener">LinkedIn</a></li>
 </ul>
 
+## Recent Research Activities
+- *Excluded Volume Effect in GI/G/s Queues* is available on IEEE Xplore.  
+
+  <a href="https://ieeexplore.ieee.org/document/11471795" target="_blank" rel="noopener">
+    https://ieeexplore.ieee.org/document/11471795
+  </a>
+
+- IEEE Author Page: Takako Hoshiyama  
+
+  <a href="https://ieeexplore.ieee.org/author/37089615375" target="_blank" rel="noopener">
+    https://ieeexplore.ieee.org/author/37089615375
+  </a>
+
+- Affiliation used for scholarly publications and academic presentations:  
+  **IE Tech Research Institute, Japan**
+
 ## Talks / Presentations
 - 2026-01-21-, *Excluded Volume Effect in GI/G/s Queues* (Online), Symposium/Workshop at Kyushu University IMI Joint Seminar.  
 
   <a href="https://joint.imi.kyushu-u.ac.jp/post-20061/" target="_blank" rel="noopener">
     https://joint.imi.kyushu-u.ac.jp/post-20061/
   </a>
-
