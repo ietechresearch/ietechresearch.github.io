@@ -18,7 +18,7 @@ IE Tech Research Institute は、**2010年に創設された**日本を拠点と
 - **Webサイト：** https://www.ietechresearch.org/
 
 ## 外部／共同研究者
-- 下山 大徳 博士（株式会社LEAOX）
+- 下山 大徳 博士（株式会社LEAOX、理学博士）
 
 ## 連絡先
 - Email: thoshiyama@ieee.org
@@ -30,7 +30,7 @@ IE Tech Research Institute は、**2010年に創設された**日本を拠点と
 
 ## 体制
 - **創設者／主任研究員：** 星山 孝子（工学博士、技術士〔経営工学部門〕）
-- **外部／共同研究者：** 下山 大徳 博士（株式会社LEAOX）
+- **外部／共同研究者：** 下山 大徳 博士（理学博士、株式会社LEAOX）
 
 ## プロフィール
 <ul>
