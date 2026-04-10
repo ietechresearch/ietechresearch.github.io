@@ -38,6 +38,8 @@ For scholarly outputs produced under the Institute’s research program, authors
   <li><a href="https://github.com/ietechresearch" target="_blank" rel="noopener">GitHub</a></li>
   <li><a href="https://www.researchgate.net/profile/Takako-Hoshiyama" target="_blank" rel="noopener">ResearchGate</a></li>
   <li><a href="https://ieeexplore.ieee.org/author/37089615375" target="_blank" rel="noopener">IEEE Author Page</a></li>
+  <li><a href="https://researchmap.jp/thoshiyama?lang=en" target="_blank" rel="noopener">researchmap</a></li>
+  <li><a href="https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202301008289681700" target="_blank" rel="noopener">J-GLOBAL</a></li>
   <li><a href="https://scholar.google.com/citations?user=X7A0MBsAAAAJ&hl=ja" target="_blank" rel="noopener">Google Scholar</a></li>
   <li><a href="https://www.linkedin.com/in/takako-sakurai-hoshiyama-71180535/" target="_blank" rel="noopener">LinkedIn</a></li>
 </ul>
