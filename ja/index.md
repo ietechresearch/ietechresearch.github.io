@@ -63,6 +63,15 @@ IE Tech Research Institute は、**2010年に創設された**日本を拠点と
   **IE Tech Research Institute, Japan**
 
 ## 発表
+- 2026-09-04, *2D-TASEP における退出過程の変動解析と経路優先度の最適化*, 京都大学 数理解析研究所（RIMS）共同研究「数理最適化：理論，計算，社会実装の新たな展開」  
+
+  <a href="https://tomonari-kitahara.github.io/website/rims2026/" target="_blank" rel="noopener">
+    研究集会ウェブサイト
+  </a>  
+  <a href="https://tomonari-kitahara.github.io/website/rims2026_program_abstract.pdf" target="_blank" rel="noopener">
+    プログラム・アブストラクト集
+  </a>
+
 - 2026-01-21-, *Excluded Volume Effect in GI/G/s Queues*（オンライン）, 九州大学 IMI Joint Seminar（シンポジウム／ワークショップ）  
 
   <a href="https://joint.imi.kyushu-u.ac.jp/post-20061/" target="_blank" rel="noopener">
