@@ -60,11 +60,14 @@ For scholarly outputs produced under the Institute’s research program, authors
 - Affiliation used for scholarly publications and academic presentations:  
   **IE Tech Research Institute, Japan**
 
-## Talks / Presentations 2026,
+## Talks / Presentations 2026
 - 2026-09-04, *Fluctuation Analysis of the Exit Process and Optimization of Route Priority in the 2D-TASEP*, RIMS Joint Research Meeting, Kyoto University.  
 
   <a href="https://tomonari-kitahara.github.io/website/rims2026/" target="_blank" rel="noopener">
-    https://tomonari-kitahara.github.io/website/rims2026/
+    Workshop Website
+  </a>  
+  <a href="https://tomonari-kitahara.github.io/website/rims2026_program_abstract.pdf" target="_blank" rel="noopener">
+    Program & Abstracts
   </a>
 
 - 2026-01-21-, *Excluded Volume Effect in GI/G/s Queues* (Online), Symposium/Workshop at Kyushu University IMI Joint Seminar.  
